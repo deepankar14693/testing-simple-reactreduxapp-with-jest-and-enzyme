@@ -1,4 +1,4 @@
-###Simple react-redux app testing with jest and enzyme
+### Simple react-redux app testing with jest and enzyme
 
      *This application can be used for future reference when needed to write test cases for react-redux app*
 
