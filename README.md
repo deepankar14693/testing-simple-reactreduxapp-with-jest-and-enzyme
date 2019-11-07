@@ -1,6 +1,6 @@
 # Simple react-redux app testing with jest and enzyme
 
-     *This application can be used for future reference when needed to write test cases for react-redux app*
+     * This application can be used for future reference when needed to write test cases for react-redux app *
 
 ## Available Scripts
 
